@@ -1,0 +1,5 @@
+[run]
+include = elimika_backend/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
