@@ -3,9 +3,17 @@ from __future__ import absolute_import, unicode_literals
 
 from django.conf.urls import url
 
+from rest_framework import routers
+
 from . import views
 
-urlpatterns = [
+router = routers.SimpleRouter()
+
+router.register(r'learners', views.LearnerViewSet)
+
+urlpatterns = router.urls
+
+urlpatterns += [
     url(
         regex=r'^$',
         view=views.UserListView.as_view(),

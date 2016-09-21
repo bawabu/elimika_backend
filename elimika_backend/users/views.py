@@ -6,7 +6,10 @@ from django.views.generic import DetailView, ListView, RedirectView, UpdateView
 
 from django.contrib.auth.mixins import LoginRequiredMixin
 
-from .models import User
+from rest_framework.viewsets import ModelViewSet
+
+from .models import User, Learner
+from .serializers import LearnerSerializer
 
 
 class UserDetailView(LoginRequiredMixin, DetailView):
@@ -46,3 +49,10 @@ class UserListView(LoginRequiredMixin, ListView):
     # These next two lines tell the view to index lookups by username
     slug_field = 'username'
     slug_url_kwarg = 'username'
+
+
+class LearnerViewSet(ModelViewSet):
+    """Learner viewset."""
+
+    queryset = Learner.objects.all()
+    serializer_class = LearnerSerializer

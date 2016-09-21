@@ -20,6 +20,11 @@ urlpatterns = [
     url(r'^accounts/', include('allauth.urls')),
 
     # Your stuff: custom urls includes go here
+    url(r'^docs/', include('rest_framework_docs.urls')),
+    url(r'^api-auth/', include('rest_framework.urls',
+                               namespace='rest_framework')),
+    url(r'questions/', include('elimika_backend.questions.urls',
+                               namespace='questions')),
 
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

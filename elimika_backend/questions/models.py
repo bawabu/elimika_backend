@@ -1,7 +1,11 @@
+# -*- coding: utf-8 -*-
+from __future__ import absolute_import, unicode_literals
+
 from django.core.exceptions import ValidationError
 from django.db import models
 
-from .common.models.base import BaseModel
+from elimika_backend.common.models.base import BaseModel
+from elimika_backend.users.models import User, Learner
 
 
 CATEGORY_CHOICES = (
@@ -16,7 +20,7 @@ class Question(BaseModel):
 
     question = models.TextField()
     tutor = models.ForeignKey(
-        'Tutor', on_delete=models.PROTECT, related_name='tutor_questions')
+        User, on_delete=models.PROTECT, related_name='tutor_questions')
     category = models.CharField(choices=CATEGORY_CHOICES, max_length=100)
 
     def __str__(self):
@@ -34,7 +38,7 @@ class Choice(BaseModel):
     choice = models.CharField(max_length=255)
     is_right = models.BooleanField(default=False)
     tutor = models.ForeignKey(
-        'Tutor', on_delete=models.PROTECT, related_name='+')
+        User, on_delete=models.PROTECT, related_name='+')
 
     def __str__(self):
         """String representation."""
@@ -74,7 +78,7 @@ class Answer(BaseModel):
     choice = models.ForeignKey(
         Choice, on_delete=models.PROTECT, related_name='+')
     learner = models.ForeignKey(
-        'Learner', on_delete=models.PROTECT, related_name='learner_answers')
+        Learner, on_delete=models.PROTECT, related_name='learner_answers')
 
     def __str__(self):
         """String representation."""
