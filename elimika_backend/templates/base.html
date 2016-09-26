@@ -42,9 +42,6 @@
               <li class="nav-item">
                 <a class="nav-link" href="{% url 'home' %}">Home</a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="{% url 'about' %}">About</a>
-              </li>
             </ul>
 
             <ul class="nav navbar-nav pull-xs-right">
@@ -78,7 +75,7 @@
       {% endif %}
 
       {% block content %}
-        <p>Use this document as a way to quick start any new project.</p>
+      <p>View API documentation <a href="http://127.0.0.1:8000/docs/">here</a>.</p>
       {% endblock content %}
 
     </div> <!-- /container -->

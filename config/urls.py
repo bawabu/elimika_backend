@@ -25,6 +25,8 @@ urlpatterns = [
                                namespace='rest_framework')),
     url(r'questions/', include('elimika_backend.questions.urls',
                                namespace='questions')),
+    url(r'knowledge/', include('elimika_backend.knowledge.urls',
+                              namespace='knowledge')),
 
 
 ] + static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

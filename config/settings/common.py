@@ -49,6 +49,7 @@ LOCAL_APPS = (
     # custom users app
     'elimika_backend.users.apps.UsersConfig',
     'elimika_backend.questions.apps.QuestionsConfig',
+    'elimika_backend.knowledge.apps.KnowledgeConfig',
 )
 
 # See: https://docs.djangoproject.com/en/dev/ref/settings/#installed-apps
