@@ -1,0 +1,64 @@
+[
+    {
+        "model": "knowledge.category",
+        "pk": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
+        "fields": {
+            "category_name": "teeth",
+            "base_category": "True"
+        }
+    },
+    {
+        "model": "knowledge.category",
+        "pk": "9f6fda8a-5987-4d81-993e-dd0a2f8b4b63",
+        "fields": {
+            "category": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
+            "category_name": "teeth_characteristics",
+            "base_category": "False"
+        }
+    },
+    {
+        "model": "knowledge.category",
+        "pk": "97e68ef2-ac09-40a5-98ce-576af78e593f",
+        "fields": {
+            "category": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
+            "category_name": "teeth_types",
+            "base_category": "False"
+        }
+    },
+    {
+        "model": "knowledge.category",
+        "pk": "a9d784dd-7a50-43a2-9f86-8cd02832be83",
+        "fields": {
+            "category": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
+            "category_name": "teeth_sets",
+            "base_category": "False"
+        }
+    },
+    {
+        "model": "knowledge.category",
+        "pk": "9d71af5f-715e-435a-a9ec-616b42b82119",
+        "fields": {
+            "category": "97e68ef2-ac09-40a5-98ce-576af78e593f",
+            "category_name": "teeth_type_characteristics",
+            "base_category": "False"
+        }
+    },
+    {
+        "model": "knowledge.category",
+        "pk": "698bab84-b1e7-4a0d-bc66-444ecf0a516e",
+        "fields": {
+            "category": "97e68ef2-ac09-40a5-98ce-576af78e593f",
+            "category_name": "teeth_type_functions",
+            "base_category": "False"
+        }
+    },
+    {
+        "model": "knowledge.category",
+        "pk": "256c3799-ed70-4745-a8da-8f155004b778",
+        "fields": {
+            "category": "a9d784dd-7a50-43a2-9f86-8cd02832be83",
+            "category_name": "teeth_set_characteristics",
+            "base_category": "False"
+        }
+    }
+]
