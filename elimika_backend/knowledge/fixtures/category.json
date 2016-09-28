@@ -1,64 +1,118 @@
 [
     {
+        "pk": "c3511e44-e16f-411e-a04a-ba3267556338",
         "model": "knowledge.category",
-        "pk": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
         "fields": {
-            "category_name": "teeth",
-            "base_category": "True"
+            "base_category": "True",
+            "category_name": "teeth"
         }
     },
     {
+        "pk": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
         "model": "knowledge.category",
-        "pk": "9f6fda8a-5987-4d81-993e-dd0a2f8b4b63",
         "fields": {
-            "category": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
-            "category_name": "teeth_characteristics",
-            "base_category": "False"
+            "base_category": "False",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "category_name": "teeth_types"
         }
     },
     {
+        "pk": "0a6b1e5c-b3ec-4934-b080-9ba0056a504b",
         "model": "knowledge.category",
-        "pk": "97e68ef2-ac09-40a5-98ce-576af78e593f",
         "fields": {
-            "category": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
-            "category_name": "teeth_types",
-            "base_category": "False"
+            "base_category": "False",
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "category_name": "incisors"
         }
     },
     {
+        "pk": "5cb78d04-5ff5-42f0-a382-94400fa29097",
         "model": "knowledge.category",
-        "pk": "a9d784dd-7a50-43a2-9f86-8cd02832be83",
         "fields": {
-            "category": "cac4ae46-bd1a-45c6-bef2-bdca0346df91",
-            "category_name": "teeth_sets",
-            "base_category": "False"
+            "base_category": "False",
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "category_name": "canines"
         }
     },
     {
+        "pk": "a0764a6a-e292-4212-9409-230dff9fbc9b",
         "model": "knowledge.category",
-        "pk": "9d71af5f-715e-435a-a9ec-616b42b82119",
         "fields": {
-            "category": "97e68ef2-ac09-40a5-98ce-576af78e593f",
-            "category_name": "teeth_type_characteristics",
-            "base_category": "False"
+            "base_category": "False",
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "category_name": "premolars"
         }
     },
     {
+        "pk": "c4c7a5d6-472d-4653-a5da-591df314904d",
         "model": "knowledge.category",
-        "pk": "698bab84-b1e7-4a0d-bc66-444ecf0a516e",
         "fields": {
-            "category": "97e68ef2-ac09-40a5-98ce-576af78e593f",
-            "category_name": "teeth_type_functions",
-            "base_category": "False"
+            "base_category": "False",
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "category_name": "molars"
         }
     },
     {
+        "pk": "716a686f-22c8-47dc-8fd1-cee0156b82cc",
         "model": "knowledge.category",
-        "pk": "256c3799-ed70-4745-a8da-8f155004b778",
         "fields": {
-            "category": "a9d784dd-7a50-43a2-9f86-8cd02832be83",
-            "category_name": "teeth_set_characteristics",
-            "base_category": "False"
+            "base_category": "False",
+            "category": "0a6b1e5c-b3ec-4934-b080-9ba0056a504b",
+            "category_name": "incisor_functions"
+        }
+    },
+    {
+        "pk": "e850d271-893a-42b1-93ae-2d2c14919bfe",
+        "model": "knowledge.category",
+        "fields": {
+            "base_category": "False",
+            "category": "5cb78d04-5ff5-42f0-a382-94400fa29097",
+            "category_name": "canine_functions"
+        }
+    },
+    {
+        "pk": "27905c0b-38ff-497c-9980-141597345ac1",
+        "model": "knowledge.category",
+        "fields": {
+            "base_category": "False",
+            "category": "a0764a6a-e292-4212-9409-230dff9fbc9b",
+            "category_name": "premolar_functions"
+        }
+    },
+    {
+        "pk": "6e039381-bdb7-4d97-a8d6-3533afe7f549",
+        "model": "knowledge.category",
+        "fields": {
+            "base_category": "False",
+            "category": "c4c7a5d6-472d-4653-a5da-591df314904d",
+            "category_name": "molar_functions"
+        }
+    },
+    {
+        "pk": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+        "model": "knowledge.category",
+        "fields": {
+            "base_category": "False",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "category_name": "teeth_sets"
+        }
+    },
+    {
+        "pk": "de118602-6c7b-412b-91c2-bd6eeb36d799",
+        "model": "knowledge.category",
+        "fields": {
+            "base_category": "False",
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "category_name": "deciduous"
+        }
+    },
+    {
+        "pk": "cd2e29e1-62e2-450a-a2e3-22b596fdc0ec",
+        "model": "knowledge.category",
+        "fields": {
+            "base_category": "False",
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "category_name": "permanent"
         }
     }
 ]

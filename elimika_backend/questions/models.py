@@ -15,6 +15,7 @@ class Question(BaseModel):
     """
 
     question = models.TextField()
+    question_image = models.ImageField(upload_to='questions/', blank=True)
     tutor = models.ForeignKey(
         User, on_delete=models.PROTECT, related_name='tutor_questions')
     category = models.ForeignKey(

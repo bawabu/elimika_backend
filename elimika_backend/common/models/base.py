@@ -19,7 +19,7 @@ class BaseModel(models.Model):
         settings.AUTH_USER_MODEL, on_delete=models.PROTECT, related_name='+')
     updated = models.DateTimeField(auto_now=True)
     active = models.BooleanField(default=True)
-    deleted = models.BooleanField(default=True)
+    deleted = models.BooleanField(default=False)
 
     class Meta():
         """Meta class for ``BaseModel``."""

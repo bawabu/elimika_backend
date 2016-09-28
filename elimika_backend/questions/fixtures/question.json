@@ -1,0 +1,402 @@
+[
+    {
+        "pk": "d3a7f9c1-e728-494e-a0eb-16abd0670d28",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389012",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following is not a type of tooth?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389012"
+        }
+    },
+    {
+        "pk": "df6a24fb-6aab-436b-8e35-1111d4d3332d",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389248",
+            "tutor": 2,
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "question": "How many jaws does a human being have?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389248"
+        }
+    },
+    {
+        "pk": "ad1b3fbd-b9dd-435e-99d8-8ce757cde383",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389364",
+            "tutor": 2,
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "question": "The part of a tooth which remains in the gum is called?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389364"
+        }
+    },
+    {
+        "pk": "9322f1f5-b8b5-41de-8128-d041cfbd0696",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389437",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following types of teeth is the longest in human beings?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389437"
+        }
+    },
+    {
+        "pk": "433bb5fb-09d4-4bfd-8e06-07951cc418c9",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389486",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following pairs of teeth performs the same functions?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389486"
+        }
+    },
+    {
+        "pk": "d24ce7b1-ab8d-4577-aa7c-2d7d09befc95",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "questions/molar.jpg",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389533",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Name the type of tooth.",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389533"
+        }
+    },
+    {
+        "pk": "92db8220-2c05-43c0-b3b4-82ee05c9c701",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "questions/molar.jpg",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389579",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "This tooth is used for?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389579"
+        }
+    },
+    {
+        "pk": "9c5d48d3-6b4b-44a5-b383-8a6a22bacf1e",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389625",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "How many sets of teeth does a human being have?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389625"
+        }
+    },
+    {
+        "pk": "12a6749c-7455-4190-b711-08f6a44032e4",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389670",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following pairs of teeth has uneven tops?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389670"
+        }
+    },
+    {
+        "pk": "bc3c8713-9692-4cbf-9b42-8695947865d4",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389716",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following shows the correct number of molars in children aged 12 years and adults respectively?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389716"
+        }
+    },
+    {
+        "pk": "d9927ef5-7d12-4b84-9319-3026f4849e22",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389762",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "How many premolars are there in an adult human being?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389762"
+        }
+    },
+    {
+        "pk": "af0e8add-e5a4-4319-9a10-b076685d7b7d",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389807",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following types of teeth are found at the back of the mouth?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389807"
+        }
+    },
+    {
+        "pk": "64dc1346-0346-4909-b224-6a0f4b80140e",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389852",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "Falling of teeth is called?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389852"
+        }
+    },
+    {
+        "pk": "f680c8df-a3cd-4352-a456-be4a53d912c5",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "questions/premolar.jpg",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389898",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "The type of tooth is called?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389898"
+        }
+    },
+    {
+        "pk": "c7548b4b-1913-4c61-8d2e-9a19daf8f2ed",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "questions/premolar.jpg",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389943",
+            "tutor": 2,
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "question": "Which one of the following statements is false about the tooth?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389943"
+        }
+    },
+    {
+        "pk": "72bc52d7-6a15-4f10-8785-690188a6a41a",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.389989",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "Artificial teeth are also called?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.389989"
+        }
+    },
+    {
+        "pk": "240eb95a-f628-421d-b8c3-fd74dc85c80f",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390038",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "Milk teeth start falling off at the age of about?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390038"
+        }
+    },
+    {
+        "pk": "c550c0b8-680e-4781-8ce7-4c53003b5294",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390084",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "How many permanent teeth are there in an adult human being?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390084"
+        }
+    },
+    {
+        "pk": "e3f3a124-cf61-4e3d-9903-df2fb7701f03",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390130",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following types of teeth is chisel-shaped?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390130"
+        }
+    },
+    {
+        "pk": "5d796b8e-aa69-4a3b-aeba-a169a6649709",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390175",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "How many premolars does an adult have on the upper jaw?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390175"
+        }
+    },
+    {
+        "pk": "58d49211-bd60-494c-ab42-71c8ca42fcd2",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390220",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which two types of teeth have one root each?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390220"
+        }
+    },
+    {
+        "pk": "6b5a638d-f50d-43c0-bb70-c0da2763d282",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390266",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "The last teeth to grow are?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390266"
+        }
+    },
+    {
+        "pk": "b28e6054-39ad-4d94-825c-38da5713ee99",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390312",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "Which one of the following is the odd one out?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390312"
+        }
+    },
+    {
+        "pk": "d2a002fa-f42b-4856-9254-4e70a139df14",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390357",
+            "tutor": 2,
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "question": "Which one of the following statements best describes a human premolar tooth?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390357"
+        }
+    },
+    {
+        "pk": "d2af028b-905a-4ffc-b231-cfcfc63bd634",
+        "model": "questions.question",
+        "fields": {
+            "question_image": "",
+            "active": "True",
+            "updated": "2016-09-28 15:15:11.390402",
+            "tutor": 2,
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "question": "Which one of the following refers to the four molars which grow later in a human being after he or she becomes an adult?",
+            "created_by": 2,
+            "updated_by": 2,
+            "deleted": "False",
+            "created": "2016-09-28 15:15:11.390402"
+        }
+    }
+]

@@ -6,18 +6,21 @@ from rest_framework.serializers import ModelSerializer
 from .models import Question, Choice, Answer
 
 
-class QuestionSerializer(ModelSerializer):
-
-    class Meta:
-
-        model = Question
-
-
 class ChoiceSerializer(ModelSerializer):
 
     class Meta:
 
         model = Choice
+
+
+class QuestionSerializer(ModelSerializer):
+
+    question_choices = ChoiceSerializer(many=True, read_only=True)
+
+    class Meta:
+
+        model = Question
+
 
 
 class AnswerSerializer(ModelSerializer):

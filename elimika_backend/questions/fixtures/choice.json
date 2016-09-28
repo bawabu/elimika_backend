@@ -1,0 +1,1602 @@
+[
+    {
+        "pk": "70f283eb-4071-488f-bd9a-6b906cf13577",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Incisor",
+            "updated": "2016-09-28 15:15:11.389012",
+            "created": "2016-09-28 15:15:11.389012",
+            "tutor": 2,
+            "question": "d3a7f9c1-e728-494e-a0eb-16abd0670d28",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "1af60397-24be-4e52-927a-a1a36cdc4ad0",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canine",
+            "updated": "2016-09-28 15:15:11.389012",
+            "created": "2016-09-28 15:15:11.389012",
+            "tutor": 2,
+            "question": "d3a7f9c1-e728-494e-a0eb-16abd0670d28",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a8452fc6-6a32-4bbf-a14d-e98c11e585f9",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Primary",
+            "updated": "2016-09-28 15:15:11.389012",
+            "created": "2016-09-28 15:15:11.389012",
+            "tutor": 2,
+            "question": "d3a7f9c1-e728-494e-a0eb-16abd0670d28",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a0f2292c-45c0-4828-a5d0-b76ecc80e2e9",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolar",
+            "updated": "2016-09-28 15:15:11.389012",
+            "created": "2016-09-28 15:15:11.389012",
+            "tutor": 2,
+            "question": "d3a7f9c1-e728-494e-a0eb-16abd0670d28",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "6cb8c9ff-ef04-4b5c-a6bb-263b89b1a356",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "One",
+            "updated": "2016-09-28 15:15:11.389248",
+            "created": "2016-09-28 15:15:11.389248",
+            "tutor": 2,
+            "question": "df6a24fb-6aab-436b-8e35-1111d4d3332d",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "33ee1786-2d69-4128-b100-fe08ea0d451a",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Two",
+            "updated": "2016-09-28 15:15:11.389248",
+            "created": "2016-09-28 15:15:11.389248",
+            "tutor": 2,
+            "question": "df6a24fb-6aab-436b-8e35-1111d4d3332d",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "e15827e8-9a29-4789-b982-860f0cd7f240",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Four",
+            "updated": "2016-09-28 15:15:11.389248",
+            "created": "2016-09-28 15:15:11.389248",
+            "tutor": 2,
+            "question": "df6a24fb-6aab-436b-8e35-1111d4d3332d",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "7cdd7245-e67f-46e3-bedd-92e78dca6a6d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Eight",
+            "updated": "2016-09-28 15:15:11.389248",
+            "created": "2016-09-28 15:15:11.389248",
+            "tutor": 2,
+            "question": "df6a24fb-6aab-436b-8e35-1111d4d3332d",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "21e2a90f-b4cc-4414-ae0b-d8f8b90112c5",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "enamel",
+            "updated": "2016-09-28 15:15:11.389364",
+            "created": "2016-09-28 15:15:11.389364",
+            "tutor": 2,
+            "question": "ad1b3fbd-b9dd-435e-99d8-8ce757cde383",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "53f3744c-b8bf-403d-939c-739cf365f199",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "crown",
+            "updated": "2016-09-28 15:15:11.389364",
+            "created": "2016-09-28 15:15:11.389364",
+            "tutor": 2,
+            "question": "ad1b3fbd-b9dd-435e-99d8-8ce757cde383",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "22064007-63ce-4dd9-81e3-f05466e5ecff",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "root",
+            "updated": "2016-09-28 15:15:11.389364",
+            "created": "2016-09-28 15:15:11.389364",
+            "tutor": 2,
+            "question": "ad1b3fbd-b9dd-435e-99d8-8ce757cde383",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "b50fa85a-ca86-4c4e-8360-93984dcc5b84",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "jaw",
+            "updated": "2016-09-28 15:15:11.389364",
+            "created": "2016-09-28 15:15:11.389364",
+            "tutor": 2,
+            "question": "ad1b3fbd-b9dd-435e-99d8-8ce757cde383",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "0ae55055-7c71-4f0e-9cad-2fd71900668b",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Molars",
+            "updated": "2016-09-28 15:15:11.389437",
+            "created": "2016-09-28 15:15:11.389437",
+            "tutor": 2,
+            "question": "9322f1f5-b8b5-41de-8128-d041cfbd0696",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "36e935b6-4190-46fb-82ff-af3b65de2fe3",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolars",
+            "updated": "2016-09-28 15:15:11.389437",
+            "created": "2016-09-28 15:15:11.389437",
+            "tutor": 2,
+            "question": "9322f1f5-b8b5-41de-8128-d041cfbd0696",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "d3f1df25-69b8-4bef-8d45-128abf7dccad",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Incisors",
+            "updated": "2016-09-28 15:15:11.389437",
+            "created": "2016-09-28 15:15:11.389437",
+            "tutor": 2,
+            "question": "9322f1f5-b8b5-41de-8128-d041cfbd0696",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "349e49d4-1f0e-40be-bcae-ff5804ea65fb",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canines",
+            "updated": "2016-09-28 15:15:11.389437",
+            "created": "2016-09-28 15:15:11.389437",
+            "tutor": 2,
+            "question": "9322f1f5-b8b5-41de-8128-d041cfbd0696",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "28b66111-9d89-4013-8e91-ca4d6f3b141e",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canines and incisors",
+            "updated": "2016-09-28 15:15:11.389486",
+            "created": "2016-09-28 15:15:11.389486",
+            "tutor": 2,
+            "question": "433bb5fb-09d4-4bfd-8e06-07951cc418c9",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "9dbb7b65-3dda-4e4a-9dc5-a30b2b1c8b22",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Molars and canines",
+            "updated": "2016-09-28 15:15:11.389486",
+            "created": "2016-09-28 15:15:11.389486",
+            "tutor": 2,
+            "question": "433bb5fb-09d4-4bfd-8e06-07951cc418c9",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "1eb481d1-d723-48d8-8b45-bcce67062143",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolars and molars",
+            "updated": "2016-09-28 15:15:11.389486",
+            "created": "2016-09-28 15:15:11.389486",
+            "tutor": 2,
+            "question": "433bb5fb-09d4-4bfd-8e06-07951cc418c9",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "1c8d274b-e876-4cf3-9341-d732db5c8e43",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolars and incisors",
+            "updated": "2016-09-28 15:15:11.389486",
+            "created": "2016-09-28 15:15:11.389486",
+            "tutor": 2,
+            "question": "433bb5fb-09d4-4bfd-8e06-07951cc418c9",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "ca8f78e2-898b-4be5-84aa-20b1b63f28d8",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Molar",
+            "updated": "2016-09-28 15:15:11.389533",
+            "created": "2016-09-28 15:15:11.389533",
+            "tutor": 2,
+            "question": "d24ce7b1-ab8d-4577-aa7c-2d7d09befc95",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "0c97fc61-4d1a-4ca1-ab6f-63a15d527855",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Incisor",
+            "updated": "2016-09-28 15:15:11.389533",
+            "created": "2016-09-28 15:15:11.389533",
+            "tutor": 2,
+            "question": "d24ce7b1-ab8d-4577-aa7c-2d7d09befc95",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "6f174bf8-cde7-4ee8-a242-a1e98cf911f0",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canine",
+            "updated": "2016-09-28 15:15:11.389533",
+            "created": "2016-09-28 15:15:11.389533",
+            "tutor": 2,
+            "question": "d24ce7b1-ab8d-4577-aa7c-2d7d09befc95",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "b35a96d8-eb7a-4729-9692-bfcb5beca078",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolar",
+            "updated": "2016-09-28 15:15:11.389533",
+            "created": "2016-09-28 15:15:11.389533",
+            "tutor": 2,
+            "question": "d24ce7b1-ab8d-4577-aa7c-2d7d09befc95",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "936da376-4366-43b3-97f4-f14cbcf43877",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "biting",
+            "updated": "2016-09-28 15:15:11.389579",
+            "created": "2016-09-28 15:15:11.389579",
+            "tutor": 2,
+            "question": "92db8220-2c05-43c0-b3b4-82ee05c9c701",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "bfebf02e-3727-4d16-8043-1b792eb45c81",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "tearing",
+            "updated": "2016-09-28 15:15:11.389579",
+            "created": "2016-09-28 15:15:11.389579",
+            "tutor": 2,
+            "question": "92db8220-2c05-43c0-b3b4-82ee05c9c701",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "fe7221a7-d356-48a7-bb50-108ef2af2c42",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "grinding",
+            "updated": "2016-09-28 15:15:11.389579",
+            "created": "2016-09-28 15:15:11.389579",
+            "tutor": 2,
+            "question": "92db8220-2c05-43c0-b3b4-82ee05c9c701",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "f03e7399-b52e-44a7-be84-2071554a43c0",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "cutting",
+            "updated": "2016-09-28 15:15:11.389579",
+            "created": "2016-09-28 15:15:11.389579",
+            "tutor": 2,
+            "question": "92db8220-2c05-43c0-b3b4-82ee05c9c701",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "869a3003-16b5-4eb5-a321-34addb902169",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "4",
+            "updated": "2016-09-28 15:15:11.389625",
+            "created": "2016-09-28 15:15:11.389625",
+            "tutor": 2,
+            "question": "9c5d48d3-6b4b-44a5-b383-8a6a22bacf1e",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "c5d15ab7-3c25-48d1-9922-331cccdb3c0f",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "2",
+            "updated": "2016-09-28 15:15:11.389625",
+            "created": "2016-09-28 15:15:11.389625",
+            "tutor": 2,
+            "question": "9c5d48d3-6b4b-44a5-b383-8a6a22bacf1e",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "139fa84f-ff24-4820-8fdc-f8dcaad01068",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "8",
+            "updated": "2016-09-28 15:15:11.389625",
+            "created": "2016-09-28 15:15:11.389625",
+            "tutor": 2,
+            "question": "9c5d48d3-6b4b-44a5-b383-8a6a22bacf1e",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "98b5b84a-b2a3-48e9-adc4-ca5b448238b7",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "32",
+            "updated": "2016-09-28 15:15:11.389625",
+            "created": "2016-09-28 15:15:11.389625",
+            "tutor": 2,
+            "question": "9c5d48d3-6b4b-44a5-b383-8a6a22bacf1e",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "2e2a4502-92e4-40d8-9de5-196d9a03a037",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "molar and canines",
+            "updated": "2016-09-28 15:15:11.389670",
+            "created": "2016-09-28 15:15:11.389670",
+            "tutor": 2,
+            "question": "12a6749c-7455-4190-b711-08f6a44032e4",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "9c8a864f-e6a8-4e52-a725-f16bbb9609ff",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "premolars and molars",
+            "updated": "2016-09-28 15:15:11.389670",
+            "created": "2016-09-28 15:15:11.389670",
+            "tutor": 2,
+            "question": "12a6749c-7455-4190-b711-08f6a44032e4",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "b67d6b41-a75b-4263-b701-05af206507dc",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "canines and incisors",
+            "updated": "2016-09-28 15:15:11.389670",
+            "created": "2016-09-28 15:15:11.389670",
+            "tutor": 2,
+            "question": "12a6749c-7455-4190-b711-08f6a44032e4",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "1ead11ae-f170-45a0-89a9-9397a68b99bb",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "premolars and incisors",
+            "updated": "2016-09-28 15:15:11.389670",
+            "created": "2016-09-28 15:15:11.389670",
+            "tutor": 2,
+            "question": "12a6749c-7455-4190-b711-08f6a44032e4",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "f0d85bca-022f-44e9-89dd-17c158cdedae",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "8, 12",
+            "updated": "2016-09-28 15:15:11.389716",
+            "created": "2016-09-28 15:15:11.389716",
+            "tutor": 2,
+            "question": "bc3c8713-9692-4cbf-9b42-8695947865d4",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "cb45e5e6-dc0f-4587-83e2-1290139b35f2",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "12, 12",
+            "updated": "2016-09-28 15:15:11.389716",
+            "created": "2016-09-28 15:15:11.389716",
+            "tutor": 2,
+            "question": "bc3c8713-9692-4cbf-9b42-8695947865d4",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "5d216645-7aa2-4822-af16-f3431246de83",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "12, 8",
+            "updated": "2016-09-28 15:15:11.389716",
+            "created": "2016-09-28 15:15:11.389716",
+            "tutor": 2,
+            "question": "bc3c8713-9692-4cbf-9b42-8695947865d4",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "830ee4d8-555f-48ba-ae54-20c07595458f",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "4, 8",
+            "updated": "2016-09-28 15:15:11.389716",
+            "created": "2016-09-28 15:15:11.389716",
+            "tutor": 2,
+            "question": "bc3c8713-9692-4cbf-9b42-8695947865d4",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "7358ff10-8fca-4c7a-9fee-032cb0f5de93",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "4",
+            "updated": "2016-09-28 15:15:11.389762",
+            "created": "2016-09-28 15:15:11.389762",
+            "tutor": 2,
+            "question": "d9927ef5-7d12-4b84-9319-3026f4849e22",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "f97b2c2f-ee56-48d7-ad1b-4c93f5e62e3f",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "12",
+            "updated": "2016-09-28 15:15:11.389762",
+            "created": "2016-09-28 15:15:11.389762",
+            "tutor": 2,
+            "question": "d9927ef5-7d12-4b84-9319-3026f4849e22",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "7a9da73e-de49-4bb7-b26b-701b4ab32a36",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "8",
+            "updated": "2016-09-28 15:15:11.389762",
+            "created": "2016-09-28 15:15:11.389762",
+            "tutor": 2,
+            "question": "d9927ef5-7d12-4b84-9319-3026f4849e22",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "76d7abd7-e706-40cf-a90a-b270abf52d40",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "6",
+            "updated": "2016-09-28 15:15:11.389762",
+            "created": "2016-09-28 15:15:11.389762",
+            "tutor": 2,
+            "question": "d9927ef5-7d12-4b84-9319-3026f4849e22",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "99dff41d-0a51-4fce-b4f2-978a2fc7e647",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Molars",
+            "updated": "2016-09-28 15:15:11.389807",
+            "created": "2016-09-28 15:15:11.389807",
+            "tutor": 2,
+            "question": "af0e8add-e5a4-4319-9a10-b076685d7b7d",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "dca1f2fc-6320-4056-9ae0-48070b8a34b1",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canines",
+            "updated": "2016-09-28 15:15:11.389807",
+            "created": "2016-09-28 15:15:11.389807",
+            "tutor": 2,
+            "question": "af0e8add-e5a4-4319-9a10-b076685d7b7d",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "ca28e43a-0525-4d94-9ba1-ec6afb42f57a",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Incisors",
+            "updated": "2016-09-28 15:15:11.389807",
+            "created": "2016-09-28 15:15:11.389807",
+            "tutor": 2,
+            "question": "af0e8add-e5a4-4319-9a10-b076685d7b7d",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "629de468-a22e-462b-92a5-4e0b74fbf872",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolars",
+            "updated": "2016-09-28 15:15:11.389807",
+            "created": "2016-09-28 15:15:11.389807",
+            "tutor": 2,
+            "question": "af0e8add-e5a4-4319-9a10-b076685d7b7d",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "838d17a4-8b4d-48dc-87ec-980ff43e08d3",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "grinding",
+            "updated": "2016-09-28 15:15:11.389852",
+            "created": "2016-09-28 15:15:11.389852",
+            "tutor": 2,
+            "question": "64dc1346-0346-4909-b224-6a0f4b80140e",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "614eb39a-863b-40bc-ac45-469fb5bc197d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "crushing",
+            "updated": "2016-09-28 15:15:11.389852",
+            "created": "2016-09-28 15:15:11.389852",
+            "tutor": 2,
+            "question": "64dc1346-0346-4909-b224-6a0f4b80140e",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "0d22b0bd-3dce-4928-834f-7b425d3d8cc7",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "shedding",
+            "updated": "2016-09-28 15:15:11.389852",
+            "created": "2016-09-28 15:15:11.389852",
+            "tutor": 2,
+            "question": "64dc1346-0346-4909-b224-6a0f4b80140e",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "83b7d39d-ca5c-43e9-a02d-986dc866a287",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "tooth decay",
+            "updated": "2016-09-28 15:15:11.389852",
+            "created": "2016-09-28 15:15:11.389852",
+            "tutor": 2,
+            "question": "64dc1346-0346-4909-b224-6a0f4b80140e",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "ede7c269-accd-4e5a-bb46-6405b9caa74a",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "a molar",
+            "updated": "2016-09-28 15:15:11.389898",
+            "created": "2016-09-28 15:15:11.389898",
+            "tutor": 2,
+            "question": "f680c8df-a3cd-4352-a456-be4a53d912c5",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "bfd5ad86-4e46-45e5-b3db-dbd8ca72ea92",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "an incisor",
+            "updated": "2016-09-28 15:15:11.389898",
+            "created": "2016-09-28 15:15:11.389898",
+            "tutor": 2,
+            "question": "f680c8df-a3cd-4352-a456-be4a53d912c5",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "45c2ac0b-0147-4556-990f-66dce9197d8e",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "a canine",
+            "updated": "2016-09-28 15:15:11.389898",
+            "created": "2016-09-28 15:15:11.389898",
+            "tutor": 2,
+            "question": "f680c8df-a3cd-4352-a456-be4a53d912c5",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "d57ae00a-6f3c-4493-b25e-332afed60577",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "a premolar",
+            "updated": "2016-09-28 15:15:11.389898",
+            "created": "2016-09-28 15:15:11.389898",
+            "tutor": 2,
+            "question": "f680c8df-a3cd-4352-a456-be4a53d912c5",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "85a60f11-cd97-421b-8df2-6f79fd128068",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "It has an even top.",
+            "updated": "2016-09-28 15:15:11.389943",
+            "created": "2016-09-28 15:15:11.389943",
+            "tutor": 2,
+            "question": "c7548b4b-1913-4c61-8d2e-9a19daf8f2ed",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "92020df0-dea4-4977-84b9-643a7d905ca5",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "There are two of them on the left upper jaw.",
+            "updated": "2016-09-28 15:15:11.389943",
+            "created": "2016-09-28 15:15:11.389943",
+            "tutor": 2,
+            "question": "c7548b4b-1913-4c61-8d2e-9a19daf8f2ed",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "be50c56c-e8f4-4fa0-af9e-23d5d4ef0428",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "It appears between canines and molars.",
+            "updated": "2016-09-28 15:15:11.389943",
+            "created": "2016-09-28 15:15:11.389943",
+            "tutor": 2,
+            "question": "c7548b4b-1913-4c61-8d2e-9a19daf8f2ed",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "055cfea2-3758-4090-9a97-f5c163e50c3e",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "It is used for grinding and chewing hard foods.",
+            "updated": "2016-09-28 15:15:11.389943",
+            "created": "2016-09-28 15:15:11.389943",
+            "tutor": 2,
+            "question": "c7548b4b-1913-4c61-8d2e-9a19daf8f2ed",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "1f33b860-aaff-4fef-ba0c-f45288479f2a",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "milk teeth",
+            "updated": "2016-09-28 15:15:11.389989",
+            "created": "2016-09-28 15:15:11.389989",
+            "tutor": 2,
+            "question": "72bc52d7-6a15-4f10-8785-690188a6a41a",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "e51f20b7-fb9f-487a-93d8-1ba8eb0b6b39",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "deciduous teeth",
+            "updated": "2016-09-28 15:15:11.389989",
+            "created": "2016-09-28 15:15:11.389989",
+            "tutor": 2,
+            "question": "72bc52d7-6a15-4f10-8785-690188a6a41a",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "8b5fd541-4e41-4940-985c-985f683d9454",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "permanent teeth",
+            "updated": "2016-09-28 15:15:11.389989",
+            "created": "2016-09-28 15:15:11.389989",
+            "tutor": 2,
+            "question": "72bc52d7-6a15-4f10-8785-690188a6a41a",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "2201d3f7-4140-4c56-aef5-fed6677040d5",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "false teeth",
+            "updated": "2016-09-28 15:15:11.389989",
+            "created": "2016-09-28 15:15:11.389989",
+            "tutor": 2,
+            "question": "72bc52d7-6a15-4f10-8785-690188a6a41a",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "794cf298-ad37-4572-9ddd-243a514b93dd",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "12 years",
+            "updated": "2016-09-28 15:15:11.390038",
+            "created": "2016-09-28 15:15:11.390038",
+            "tutor": 2,
+            "question": "240eb95a-f628-421d-b8c3-fd74dc85c80f",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "8b90dccb-37d0-439d-85b4-41f3b7395c3e",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "6 months",
+            "updated": "2016-09-28 15:15:11.390038",
+            "created": "2016-09-28 15:15:11.390038",
+            "tutor": 2,
+            "question": "240eb95a-f628-421d-b8c3-fd74dc85c80f",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "d7631b61-9c2a-4448-936f-97ae4a78981c",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "3 years",
+            "updated": "2016-09-28 15:15:11.390038",
+            "created": "2016-09-28 15:15:11.390038",
+            "tutor": 2,
+            "question": "240eb95a-f628-421d-b8c3-fd74dc85c80f",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "ffb3641b-1822-4139-965d-7ec4c686f8a3",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "6 years",
+            "updated": "2016-09-28 15:15:11.390038",
+            "created": "2016-09-28 15:15:11.390038",
+            "tutor": 2,
+            "question": "240eb95a-f628-421d-b8c3-fd74dc85c80f",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "3aff019f-607a-40db-9846-aef96938dd53",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "20",
+            "updated": "2016-09-28 15:15:11.390084",
+            "created": "2016-09-28 15:15:11.390084",
+            "tutor": 2,
+            "question": "c550c0b8-680e-4781-8ce7-4c53003b5294",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "03cd13b8-232d-4362-a613-619caf90da04",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "12",
+            "updated": "2016-09-28 15:15:11.390084",
+            "created": "2016-09-28 15:15:11.390084",
+            "tutor": 2,
+            "question": "c550c0b8-680e-4781-8ce7-4c53003b5294",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "e617e369-46d4-4ead-bd83-d82a786bd786",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "32",
+            "updated": "2016-09-28 15:15:11.390084",
+            "created": "2016-09-28 15:15:11.390084",
+            "tutor": 2,
+            "question": "c550c0b8-680e-4781-8ce7-4c53003b5294",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "e7b8b96b-7505-4e8c-bea6-ae3f726ba993",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "4",
+            "updated": "2016-09-28 15:15:11.390084",
+            "created": "2016-09-28 15:15:11.390084",
+            "tutor": 2,
+            "question": "c550c0b8-680e-4781-8ce7-4c53003b5294",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "8d3af202-a41f-4750-b427-b452095f4929",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Molar",
+            "updated": "2016-09-28 15:15:11.390130",
+            "created": "2016-09-28 15:15:11.390130",
+            "tutor": 2,
+            "question": "e3f3a124-cf61-4e3d-9903-df2fb7701f03",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "b6e1a513-91d9-48f9-af3a-6f7a8c6734e4",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolar",
+            "updated": "2016-09-28 15:15:11.390130",
+            "created": "2016-09-28 15:15:11.390130",
+            "tutor": 2,
+            "question": "e3f3a124-cf61-4e3d-9903-df2fb7701f03",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a164cec6-6977-4970-bbed-26de47989f41",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canine",
+            "updated": "2016-09-28 15:15:11.390130",
+            "created": "2016-09-28 15:15:11.390130",
+            "tutor": 2,
+            "question": "e3f3a124-cf61-4e3d-9903-df2fb7701f03",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "470b798d-3ad7-4566-b2ac-c6e1a1494438",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Incisor",
+            "updated": "2016-09-28 15:15:11.390130",
+            "created": "2016-09-28 15:15:11.390130",
+            "tutor": 2,
+            "question": "e3f3a124-cf61-4e3d-9903-df2fb7701f03",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a6bc1edd-326b-4b2f-b4b0-ed23696f881b",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "eight",
+            "updated": "2016-09-28 15:15:11.390175",
+            "created": "2016-09-28 15:15:11.390175",
+            "tutor": 2,
+            "question": "5d796b8e-aa69-4a3b-aeba-a169a6649709",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "2b77290c-44f8-4073-8d36-709af0769745",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "four",
+            "updated": "2016-09-28 15:15:11.390175",
+            "created": "2016-09-28 15:15:11.390175",
+            "tutor": 2,
+            "question": "5d796b8e-aa69-4a3b-aeba-a169a6649709",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "f172262c-110f-4db0-ad4d-a8ddbb36b1b2",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "two",
+            "updated": "2016-09-28 15:15:11.390175",
+            "created": "2016-09-28 15:15:11.390175",
+            "tutor": 2,
+            "question": "5d796b8e-aa69-4a3b-aeba-a169a6649709",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "d2886799-0269-4549-9f44-778c70f3ee0d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "six",
+            "updated": "2016-09-28 15:15:11.390175",
+            "created": "2016-09-28 15:15:11.390175",
+            "tutor": 2,
+            "question": "5d796b8e-aa69-4a3b-aeba-a169a6649709",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "97ba37f4-edaa-4564-b1fd-2f7050bb3781",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Molars and incisors",
+            "updated": "2016-09-28 15:15:11.390220",
+            "created": "2016-09-28 15:15:11.390220",
+            "tutor": 2,
+            "question": "58d49211-bd60-494c-ab42-71c8ca42fcd2",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "e1a586e7-6c02-4d69-b82c-1ef84e2bff8d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Incisors and molars",
+            "updated": "2016-09-28 15:15:11.390220",
+            "created": "2016-09-28 15:15:11.390220",
+            "tutor": 2,
+            "question": "58d49211-bd60-494c-ab42-71c8ca42fcd2",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "bc951c4f-8382-4ac6-ad57-d9ae13b861fa",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Premolars and molars",
+            "updated": "2016-09-28 15:15:11.390220",
+            "created": "2016-09-28 15:15:11.390220",
+            "tutor": 2,
+            "question": "58d49211-bd60-494c-ab42-71c8ca42fcd2",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "925ce814-e1b6-4836-981a-fb4f4e678ddd",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Canines and incisors",
+            "updated": "2016-09-28 15:15:11.390220",
+            "created": "2016-09-28 15:15:11.390220",
+            "tutor": 2,
+            "question": "58d49211-bd60-494c-ab42-71c8ca42fcd2",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "6a765bc8-4338-46b6-820b-db54b4b2ab8d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "wisdom teeth",
+            "updated": "2016-09-28 15:15:11.390266",
+            "created": "2016-09-28 15:15:11.390266",
+            "tutor": 2,
+            "question": "6b5a638d-f50d-43c0-bb70-c0da2763d282",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "911ffb60-76e5-42ab-9162-65bb2ab1c6a6",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "molars",
+            "updated": "2016-09-28 15:15:11.390266",
+            "created": "2016-09-28 15:15:11.390266",
+            "tutor": 2,
+            "question": "6b5a638d-f50d-43c0-bb70-c0da2763d282",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "fac9c632-2d1e-44ea-9f21-891e92db9a48",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "false teeth",
+            "updated": "2016-09-28 15:15:11.390266",
+            "created": "2016-09-28 15:15:11.390266",
+            "tutor": 2,
+            "question": "6b5a638d-f50d-43c0-bb70-c0da2763d282",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "8c4f1438-1227-4cb6-8086-4ee19dcc297f",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "incisors",
+            "updated": "2016-09-28 15:15:11.390266",
+            "created": "2016-09-28 15:15:11.390266",
+            "tutor": 2,
+            "question": "6b5a638d-f50d-43c0-bb70-c0da2763d282",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "b41bc33c-ca13-4334-8f06-5d0bd178ce8c",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "milk teeth",
+            "updated": "2016-09-28 15:15:11.390312",
+            "created": "2016-09-28 15:15:11.390312",
+            "tutor": 2,
+            "question": "b28e6054-39ad-4d94-825c-38da5713ee99",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "f1adb506-fc3b-46ef-bdab-5e79b7b42133",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "primary teeth",
+            "updated": "2016-09-28 15:15:11.390312",
+            "created": "2016-09-28 15:15:11.390312",
+            "tutor": 2,
+            "question": "b28e6054-39ad-4d94-825c-38da5713ee99",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "e83c38c0-53d8-4ca2-97d0-ff64677b059c",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "deciduous teeth",
+            "updated": "2016-09-28 15:15:11.390312",
+            "created": "2016-09-28 15:15:11.390312",
+            "tutor": 2,
+            "question": "b28e6054-39ad-4d94-825c-38da5713ee99",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a550ff9e-ee12-4c31-bb8a-25c2e1c3f619",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "false teeth",
+            "updated": "2016-09-28 15:15:11.390312",
+            "created": "2016-09-28 15:15:11.390312",
+            "tutor": 2,
+            "question": "b28e6054-39ad-4d94-825c-38da5713ee99",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "10c2cd9c-fb13-4c3e-ab79-c6ae418445d7",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Chisel-shaped with one root.",
+            "updated": "2016-09-28 15:15:11.390357",
+            "created": "2016-09-28 15:15:11.390357",
+            "tutor": 2,
+            "question": "d2a002fa-f42b-4856-9254-4e70a139df14",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "2cd2f7ce-3c15-44f8-bc61-7af9ff1a7bca",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Rough surface with two roots.",
+            "updated": "2016-09-28 15:15:11.390357",
+            "created": "2016-09-28 15:15:11.390357",
+            "tutor": 2,
+            "question": "d2a002fa-f42b-4856-9254-4e70a139df14",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "1aba285a-c875-4253-9b90-5efbee3add4d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Rough surface with three roots.",
+            "updated": "2016-09-28 15:15:11.390357",
+            "created": "2016-09-28 15:15:11.390357",
+            "tutor": 2,
+            "question": "d2a002fa-f42b-4856-9254-4e70a139df14",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a3949d77-8a75-4bd5-ae14-ebea168cb33c",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Pointed tip with one root.",
+            "updated": "2016-09-28 15:15:11.390357",
+            "created": "2016-09-28 15:15:11.390357",
+            "tutor": 2,
+            "question": "d2a002fa-f42b-4856-9254-4e70a139df14",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "0039c34f-94e5-4fff-b5a6-1e4b2efe931d",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Wisdom teeth",
+            "updated": "2016-09-28 15:15:11.390402",
+            "created": "2016-09-28 15:15:11.390402",
+            "tutor": 2,
+            "question": "d2af028b-905a-4ffc-b231-cfcfc63bd634",
+            "created_by": 2,
+            "is_right": "True",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "6073b260-69b7-4094-845c-40e294f89b5a",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Milk teeth",
+            "updated": "2016-09-28 15:15:11.390402",
+            "created": "2016-09-28 15:15:11.390402",
+            "tutor": 2,
+            "question": "d2af028b-905a-4ffc-b231-cfcfc63bd634",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "a0b5321b-f4e0-4b7d-b004-f118756d4f5f",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Primary teeth",
+            "updated": "2016-09-28 15:15:11.390402",
+            "created": "2016-09-28 15:15:11.390402",
+            "tutor": 2,
+            "question": "d2af028b-905a-4ffc-b231-cfcfc63bd634",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    },
+    {
+        "pk": "06303045-59da-48fc-9376-64125aa7753e",
+        "model": "questions.choice",
+        "fields": {
+            "choice_text": "Dentures",
+            "updated": "2016-09-28 15:15:11.390402",
+            "created": "2016-09-28 15:15:11.390402",
+            "tutor": 2,
+            "question": "d2af028b-905a-4ffc-b231-cfcfc63bd634",
+            "created_by": 2,
+            "is_right": "False",
+            "deleted": "False",
+            "updated_by": 2,
+            "active": "True"
+        }
+    }
+]

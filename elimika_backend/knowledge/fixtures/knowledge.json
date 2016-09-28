@@ -1,0 +1,290 @@
+[
+    {
+        "pk": "2e779dfc-ee40-44b2-a5f7-5cd1537f8019",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "teeth/teeth.jpg",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "Teeth are white bone-like structures found in the mouth. Different animals have different types, numbers and shapes of teeth."
+        }
+    },
+    {
+        "pk": "becf275e-b5b0-473e-984c-cdd09e1f2098",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "teeth_types/teeth_types.jpg",
+            "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
+            "text": "A human being has four different types of teeth namely: Incisors, Canines, Premolars and Molars."
+        }
+    },
+    {
+        "pk": "1e759dd3-bbf5-4b70-a6f9-3c3686ba8585",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "Teeth are held firmly in the jaws by gums."
+        }
+    },
+    {
+        "pk": "78cf9dca-5d2a-4b47-9eec-f55746ebdc6a",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "A human being has two jaws."
+        }
+    },
+    {
+        "pk": "fb843473-3fd4-4268-8947-123cfed88f12",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "Gums are red in colour."
+        }
+    },
+    {
+        "pk": "ef970821-d9a6-418d-b97b-ee6718ad0f0a",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "teeth/teeth_parts.jpg",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "The outer visible part of the tooth is called the crown."
+        }
+    },
+    {
+        "pk": "3331860c-76db-4fb7-851b-bd7f0b6bc71e",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "teeth/teeth_parts.jpg",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "The part holding the tooth in the gum and connecting it to the jaw is called the root."
+        }
+    },
+    {
+        "pk": "294094a6-cea8-4fc3-8dd8-0a709553db6f",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "teeth/teeth_parts.jpg",
+            "category": "c3511e44-e16f-411e-a04a-ba3267556338",
+            "text": "The upper white part of the tooth is called the enamel."
+        }
+    },
+    {
+        "pk": "28f61ca0-9361-414a-8eca-a70a77816f51",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "0a6b1e5c-b3ec-4934-b080-9ba0056a504b",
+            "text": "Incisors are chisel-shaped teeth found on the front part of the upper and lower jaws."
+        }
+    },
+    {
+        "pk": "626d16e1-1dbe-448a-ae36-b3c69b10c67b",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "0a6b1e5c-b3ec-4934-b080-9ba0056a504b",
+            "text": "Incisors are the first teeth to grow above the gums of a child."
+        }
+    },
+    {
+        "pk": "27158991-8f25-4cc9-b6f6-aae42b3fd2e3",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "0a6b1e5c-b3ec-4934-b080-9ba0056a504b",
+            "text": "Incisors have one root."
+        }
+    },
+    {
+        "pk": "121184ca-ab88-4096-a13f-748f7608e3bf",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "0a6b1e5c-b3ec-4934-b080-9ba0056a504b",
+            "text": "There are four incisors on the upper jaw. The lower jaw has four incisors too. Therefore, a human being has eight incisors in total."
+        }
+    },
+    {
+        "pk": "94d2184d-9c7e-4876-8e0d-e4ba2cdf672a",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "716a686f-22c8-47dc-8fd1-cee0156b82cc",
+            "text": "Incisors are used for biting and cutting food. This is because they are flat and sharp. Examples of foods cut by incisors include bananas, biscuits, bread and apples."
+        }
+    },
+    {
+        "pk": "84a4f7d2-607f-489b-b900-4986074a1666",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "5cb78d04-5ff5-42f0-a382-94400fa29097",
+            "text": "Canines are sharp and pointed teeth found on the front part of the mouth between incisors and premolars."
+        }
+    },
+    {
+        "pk": "7d070446-fa46-40f1-bfcc-57432c1e7daa",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "5cb78d04-5ff5-42f0-a382-94400fa29097",
+            "text": "Canines are the longest teeth in the human mouth and have one root."
+        }
+    },
+    {
+        "pk": "2e5ed067-aa9f-4a68-93f2-6c42df0639e2",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "5cb78d04-5ff5-42f0-a382-94400fa29097",
+            "text": "The upper jaw has two canines. The lower jaw has two canines too. Therefore, a human being has four canines in total."
+        }
+    },
+    {
+        "pk": "b9deaa61-a9fe-4310-a75d-f149c9808565",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "e850d271-893a-42b1-93ae-2d2c14919bfe",
+            "text": "Canines are used for tearing food. This is because they are sharp, long and pointed. Examples of foods torn by canines include sugar cane and meat."
+        }
+    },
+    {
+        "pk": "81b7b575-6c97-4b19-a44b-a5787ddda2c6",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "a0764a6a-e292-4212-9409-230dff9fbc9b",
+            "text": "Premolars are large ridged teeth found between canines and molars. They have uneven tops."
+        }
+    },
+    {
+        "pk": "e9ed9e09-e301-4319-9c54-dd27996af186",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "a0764a6a-e292-4212-9409-230dff9fbc9b",
+            "text": "Premolars have two roots."
+        }
+    },
+    {
+        "pk": "31422ac8-da86-4488-b2a4-95e9311b7153",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "a0764a6a-e292-4212-9409-230dff9fbc9b",
+            "text": "An adult has four premolars on the upper jaw. The lower jaw has four premolars too. Therefore, a human being has eight premolars in total."
+        }
+    },
+    {
+        "pk": "6a5c8b4a-e3ba-4f99-8be7-dbeb99c0b909",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "27905c0b-38ff-497c-9980-141597345ac1",
+            "text": "Premolars are used for grinding and chewing hard foods. This is because they are strong and have wide ridged surfaces. Examples of foods grouped by premolars are maize and groundnuts."
+        }
+    },
+    {
+        "pk": "b62f391f-c67c-4d90-b8bb-763ed54537d1",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c4c7a5d6-472d-4653-a5da-591df314904d",
+            "text": "Molars are the teeth found at the back of the mouth. An adult has three molars at the end each jaw, on the left and the right side of the mouth. He or she has six molars on the lower jaw and six molars on the upper jaw. Therefore, an adult has 12 molars in total."
+        }
+    },
+    {
+        "pk": "2bb6de1f-7d34-47ce-8be9-713505592294",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c4c7a5d6-472d-4653-a5da-591df314904d",
+            "text": "Children of about 12 years do not have the last two molars in each jaw. They therefore, lack four molars. The four missing molars in children grow later in life and are called wisdom teeth. These children therefore, have a total of 28 teeth."
+        }
+    },
+    {
+        "pk": "8d96fd81-c5b0-44c7-b3dd-420194149fb0",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c4c7a5d6-472d-4653-a5da-591df314904d",
+            "text": "The surfaces of molars are also uneven. Molars have three roots."
+        }
+    },
+    {
+        "pk": "5e6493e2-6e9b-439b-9976-5e0c5ebc1faf",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "6e039381-bdb7-4d97-a8d6-3533afe7f549",
+            "text": "Molars are used for chewing, grinding, crushing and cracking hard foods. Examples of hard foods include meat and maize grains."
+        }
+    },
+    {
+        "pk": "e59d8421-25e1-4d83-b00c-1bc7036c5880",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
+            "text": "There are two sets of teeth in a human being namely: Deciduous and Permanent teeth."
+        }
+    },
+    {
+        "pk": "3146628f-5823-4397-8916-e215b5ddbf8c",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "de118602-6c7b-412b-91c2-bd6eeb36d799",
+            "text": "Deciduous teeth are the first set of teeth to grow and appear above the gums. Growth starts at the age of about six months."
+        }
+    },
+    {
+        "pk": "ee38562d-9d95-4712-9501-4d3beff479e1",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "de118602-6c7b-412b-91c2-bd6eeb36d799",
+            "text": "Deciduous teeth are also called temporary teeth, milk teeth or primary teeth. They are 20 teeth comprised of eight incisors, four canines and eight premolars. Molars are not part of deciduous teeth."
+        }
+    },
+    {
+        "pk": "325dc568-803c-41a2-b24b-c005a752c3a2",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "de118602-6c7b-412b-91c2-bd6eeb36d799",
+            "text": "A child of about two years has this set of teeth. At the age of about six years, this set of teeth starts falling off. Falling off of deciduous teeth is referred to as shedding."
+        }
+    },
+    {
+        "pk": "94cc0029-0291-4331-b272-ef30301eddcf",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "de118602-6c7b-412b-91c2-bd6eeb36d799",
+            "text": "Incisors are the first teeth to fall off. Gaps left in the jaws, later fill with a new set of teeth."
+        }
+    },
+    {
+        "pk": "5d06e0c1-4a0b-4acc-bc13-89831575f03b",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "cd2e29e1-62e2-450a-a2e3-22b596fdc0ec",
+            "text": "Permanent teeth replace the primary teeth. It is made up of 32 teeth in an adult. Wisdom teeth are part of permanent teeth. Permanent teeth are not replaced naturally."
+        }
+    },
+    {
+        "pk": "178018d5-c0ab-4517-8dad-cca9808815de",
+        "model": "knowledge.knowledge",
+        "fields": {
+            "image": "",
+            "category": "cd2e29e1-62e2-450a-a2e3-22b596fdc0ec",
+            "text": "Once permanent teeth come out accidentally or due to problems related to teeth, new ones do not grow. They can only be replaced with artificial teeth. Artificial teeth are also called dentures or false teeth."
+        }
+    }
+]
