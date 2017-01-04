@@ -129,3 +129,25 @@ class Answer(BaseModel):
         """
         return (self.choice in
                 self.question.question_choices.filter(is_right=True))
+
+    def validate_choice(self):
+        """
+        Choice given should belong to the question being answered.
+        """
+        if self.choice.question != self.question:
+            raise ValidationError({
+                'choice': (
+                    'The choice provided is not for the question being '
+                    'answered.'
+                )
+            })
+
+    def clean(self, *args, **kwargs):
+        """Override clean method."""
+        self.validate_choice()
+        super().clean(*args, **kwargs)
+
+    def save(self, *args, **kwargs):
+        """Override save method."""
+        self.full_clean()
+        super().save(*args, **kwargs)

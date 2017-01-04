@@ -9,5 +9,6 @@ router = routers.SimpleRouter()
 
 router.register(r'categories', views.CategoryViewSet)
 router.register(r'knowledge', views.KnowledgeViewSet)
+router.register(r'category_knowledge', views.CategoryKnowledgeViewSet)
 
 urlpatterns = router.urls

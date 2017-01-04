@@ -14,9 +14,11 @@ class BaseModel(models.Model):
     id = models.UUIDField(primary_key=True, default=uuid.uuid4, editable=False)
     created = models.DateTimeField(auto_now_add=True)
     created_by = models.ForeignKey(
-        settings.AUTH_USER_MODEL, on_delete=models.PROTECT, related_name='+')
+        settings.AUTH_USER_MODEL, on_delete=models.PROTECT, related_name='+',
+        blank=True, null=True)
     updated_by = models.ForeignKey(
-        settings.AUTH_USER_MODEL, on_delete=models.PROTECT, related_name='+')
+        settings.AUTH_USER_MODEL, on_delete=models.PROTECT, related_name='+',
+        blank=True, null=True)
     updated = models.DateTimeField(auto_now=True)
     active = models.BooleanField(default=True)
     deleted = models.BooleanField(default=False)
@@ -48,11 +50,6 @@ class BaseModel(models.Model):
             self.created_by = original.created_by
         except self.__class__.DoesNotExist:
             pass
-
-    def clean(self, *args, **kwargs):
-        """Override clean method."""
-        self.validate_updated_greater_than_created_date()
-        super().clean(*args, **kwargs)
 
     def save(self, *args, **kwargs):
         """Override save method."""

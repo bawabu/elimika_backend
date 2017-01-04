@@ -42,6 +42,8 @@ THIRD_PARTY_APPS = (
     'allauth.socialaccount',  # registration
     'rest_framework',
     'rest_framework_docs',
+    'corsheaders',
+    'django_filters',
 )
 
 # Apps specific for this project go here.
@@ -65,6 +67,7 @@ MIDDLEWARE_CLASSES = (
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'corsheaders.middleware.CorsMiddleware',
 )
 
 # MIGRATIONS CONFIGURATION
@@ -235,3 +238,38 @@ ADMIN_URL = r'^admin/'
 
 # Your common stuff: Below this line define 3rd party library settings
 # ------------------------------------------------------------------------------
+CSRF_COOKIE_AGE = None
+SESSION_EXPIRE_AT_BROWSER_CLOSE = True
+SECURE_BROWSER_XSS_FILTER = True
+
+CORS_ORIGIN_WHITELIST = (
+    '127.0.0.1:3000',
+    'localhost:3000',
+    '127.0.0.1:8070',
+    'localhost:8070',
+)
+CORS_ALLOW_CREDENTIALS = True
+CORS_ALLOW_HEADERS = (
+    'x-requested-with',
+    'content-type',
+    'accept',
+    'origin',
+    'authorization',
+    'X-CSRFToken',
+    'Content-Disposition',
+)
+
+REST_FRAMEWORK = {
+    'DEFAULT_AUTHENTICATION_CLASSES': (
+        'rest_framework.authentication.SessionAuthentication',
+    ),
+    'DEFAULT_FILTER_BACKENDS': (
+        'rest_framework.filters.DjangoFilterBackend',
+    ),
+    'DEFAULT_PARSER_CLASSES': (
+        'rest_framework.parsers.JSONParser',
+        'rest_framework.parsers.FormParser',
+        'rest_framework.parsers.MultiPartParser',
+        'rest_framework.parsers.FileUploadParser',
+    )
+}

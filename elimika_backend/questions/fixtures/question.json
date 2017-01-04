@@ -6,11 +6,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389012",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following is not a type of tooth?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389012"
         }
@@ -22,11 +22,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389248",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c3511e44-e16f-411e-a04a-ba3267556338",
             "question": "How many jaws does a human being have?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389248"
         }
@@ -38,11 +38,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389364",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c3511e44-e16f-411e-a04a-ba3267556338",
             "question": "The part of a tooth which remains in the gum is called?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389364"
         }
@@ -54,11 +54,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389437",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following types of teeth is the longest in human beings?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389437"
         }
@@ -70,11 +70,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389486",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following pairs of teeth performs the same functions?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389486"
         }
@@ -86,11 +86,11 @@
             "question_image": "questions/molar.jpg",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389533",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Name the type of tooth.",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389533"
         }
@@ -102,11 +102,11 @@
             "question_image": "questions/molar.jpg",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389579",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "This tooth is used for?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389579"
         }
@@ -118,11 +118,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389625",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "How many sets of teeth does a human being have?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389625"
         }
@@ -134,11 +134,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389670",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following pairs of teeth has uneven tops?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389670"
         }
@@ -150,11 +150,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389716",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following shows the correct number of molars in children aged 12 years and adults respectively?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389716"
         }
@@ -166,11 +166,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389762",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "How many premolars are there in an adult human being?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389762"
         }
@@ -182,11 +182,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389807",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following types of teeth are found at the back of the mouth?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389807"
         }
@@ -198,11 +198,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389852",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "Falling of teeth is called?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389852"
         }
@@ -214,11 +214,11 @@
             "question_image": "questions/premolar.jpg",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389898",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "The type of tooth is called?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389898"
         }
@@ -230,11 +230,11 @@
             "question_image": "questions/premolar.jpg",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389943",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c3511e44-e16f-411e-a04a-ba3267556338",
             "question": "Which one of the following statements is false about the tooth?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389943"
         }
@@ -246,11 +246,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.389989",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "Artificial teeth are also called?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.389989"
         }
@@ -262,11 +262,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390038",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "Milk teeth start falling off at the age of about?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390038"
         }
@@ -278,11 +278,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390084",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "How many permanent teeth are there in an adult human being?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390084"
         }
@@ -294,11 +294,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390130",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following types of teeth is chisel-shaped?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390130"
         }
@@ -310,11 +310,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390175",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "How many premolars does an adult have on the upper jaw?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390175"
         }
@@ -326,11 +326,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390220",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which two types of teeth have one root each?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390220"
         }
@@ -342,11 +342,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390266",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "The last teeth to grow are?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390266"
         }
@@ -358,11 +358,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390312",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "Which one of the following is the odd one out?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390312"
         }
@@ -374,11 +374,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390357",
-            "tutor": 2,
+            "tutor": 1,
             "category": "1f81e809-9aac-4c42-a1ed-df6078f49f9c",
             "question": "Which one of the following statements best describes a human premolar tooth?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390357"
         }
@@ -390,11 +390,11 @@
             "question_image": "",
             "active": "True",
             "updated": "2016-09-28 15:15:11.390402",
-            "tutor": 2,
+            "tutor": 1,
             "category": "c62af197-7f28-4908-8e0a-ca845e38ea1a",
             "question": "Which one of the following refers to the four molars which grow later in a human being after he or she becomes an adult?",
-            "created_by": 2,
-            "updated_by": 2,
+            "created_by": 1,
+            "updated_by": 1,
             "deleted": "False",
             "created": "2016-09-28 15:15:11.390402"
         }

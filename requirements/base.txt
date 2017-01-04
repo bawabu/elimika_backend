@@ -46,3 +46,5 @@ djangorestframework==3.4.7
 markdown==2.6.6
 django-filter==0.15.0
 drfdocs==0.0.11
+
+django-cors-headers==1.2.0

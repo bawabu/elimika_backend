@@ -9,11 +9,22 @@ from . import views
 
 router = routers.SimpleRouter()
 
+router.register(r'users', views.UserViewSet)
 router.register(r'learners', views.LearnerViewSet)
 
 urlpatterns = router.urls
 
 urlpatterns += [
+    url(
+        r'^login/$',
+        view=views.LoginView.as_view(),
+        name='login'
+    ),
+    url(
+        r'^logout/$',
+        view=views.LogoutView.as_view(),
+        name='logout'
+    ),
     url(
         regex=r'^$',
         view=views.UserListView.as_view(),

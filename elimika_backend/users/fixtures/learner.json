@@ -1,0 +1,123 @@
+[
+    {
+        "pk": "263320ce-06f5-4dfc-9276-50362ece6361",
+        "model": "users.learner",
+        "fields": {
+            "name": "Rose Kendi",
+            "age": 9,
+            "gender": "girl",
+            "username": "rose",
+            "joined": "2016-11-14 10:39:18.784966"
+        }
+    },
+    {
+        "pk": "98934a43-65f0-4269-9e47-3d2ad20d2cd4",
+        "model": "users.learner",
+        "fields": {
+            "name": "James Kamau",
+            "age": 7,
+            "gender": "boy",
+            "username": "kamau",
+            "joined": "2016-11-14 10:39:18.785064"
+        }
+    },
+    {
+        "pk": "924986b5-9ea4-48db-a27f-cbf0803c7fb2",
+        "model": "users.learner",
+        "fields": {
+            "name": "Joyce Kamwari",
+            "age": 8,
+            "gender": "girl",
+            "username": "joyce",
+            "joined": "2016-11-14 10:39:18.785120"
+        }
+    },
+    {
+        "pk": "5daf7ec7-b334-41bf-b596-13932659a751",
+        "model": "users.learner",
+        "fields": {
+            "name": "Peter Morris",
+            "age": 6,
+            "gender": "boy",
+            "username": "peter",
+            "joined": "2016-11-14 10:39:18.785166"
+        }
+    },
+    {
+        "pk": "373dcbb9-34e6-4622-9f64-cf4541ef71c5",
+        "model": "users.learner",
+        "fields": {
+            "name": "Alex Muthuri",
+            "age": 10,
+            "gender": "boy",
+            "username": "alex",
+            "joined": "2016-11-14 10:39:18.785208"
+        }
+    },
+    {
+        "pk": "d626ade3-8f04-4b51-9da3-76c905d144e5",
+        "model": "users.learner",
+        "fields": {
+            "name": "Nico Opiyo",
+            "age": 11,
+            "gender": "boy",
+            "username": "opiyo",
+            "joined": "2016-11-14 10:39:18.785250"
+        }
+    },
+    {
+        "pk": "3585364f-2b6d-4b52-8dea-626f496bde2b",
+        "model": "users.learner",
+        "fields": {
+            "name": "Ivy Ciku",
+            "age": 6,
+            "gender": "girl",
+            "username": "ciku",
+            "joined": "2016-11-14 10:39:18.785292"
+        }
+    },
+    {
+        "pk": "2d8304ee-9695-4a70-a249-1a5eb503f8da",
+        "model": "users.learner",
+        "fields": {
+            "name": "Peter Muchiri",
+            "age": 5,
+            "gender": "boy",
+            "username": "muchiri",
+            "joined": "2016-11-14 10:39:18.785341"
+        }
+    },
+    {
+        "pk": "c9382ffd-be2a-4255-bb4b-19ce0cff1168",
+        "model": "users.learner",
+        "fields": {
+            "name": "Steve Osoro",
+            "age": 10,
+            "gender": "boy",
+            "username": "osoro",
+            "joined": "2016-11-14 10:39:18.785644"
+        }
+    },
+    {
+        "pk": "7edcb3c1-feed-476e-9890-a76343da3c0b",
+        "model": "users.learner",
+        "fields": {
+            "name": "Juliet Wanjohi",
+            "age": 8,
+            "gender": "girl",
+            "username": "wanjohi",
+            "joined": "2016-11-14 10:39:18.785733"
+        }
+    },
+    {
+        "pk": "1ed72358-f07b-4026-abc5-5520084c3865",
+        "model": "users.learner",
+        "fields": {
+            "name": "Salome Nyambura",
+            "age": 9,
+            "gender": "girl",
+            "username": "nyambura",
+            "joined": "2016-11-14 10:39:18.785781"
+        }
+    }
+]
